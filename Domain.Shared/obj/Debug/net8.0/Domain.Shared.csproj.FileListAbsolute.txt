@@ -1,0 +1,24 @@
+C:\Users\nour1\source\repos\Domain.Shared\bin\Debug\net8.0\Domain.Shared.deps.json
+C:\Users\nour1\source\repos\Domain.Shared\bin\Debug\net8.0\Domain.Shared.dll
+C:\Users\nour1\source\repos\Domain.Shared\bin\Debug\net8.0\Domain.Shared.pdb
+C:\Users\nour1\source\repos\Domain.Shared\obj\Debug\net8.0\Domain.Shared.csproj.AssemblyReference.cache
+C:\Users\nour1\source\repos\Domain.Shared\obj\Debug\net8.0\Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nour1\source\repos\Domain.Shared\obj\Debug\net8.0\Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\nour1\source\repos\Domain.Shared\obj\Debug\net8.0\Domain.Shared.AssemblyInfo.cs
+C:\Users\nour1\source\repos\Domain.Shared\obj\Debug\net8.0\Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nour1\source\repos\Domain.Shared\obj\Debug\net8.0\Domain.Shared.dll
+C:\Users\nour1\source\repos\Domain.Shared\obj\Debug\net8.0\refint\Domain.Shared.dll
+C:\Users\nour1\source\repos\Domain.Shared\obj\Debug\net8.0\Domain.Shared.pdb
+C:\Users\nour1\source\repos\Domain.Shared\obj\Debug\net8.0\ref\Domain.Shared.dll
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\bin\Debug\net8.0\Domain.Shared.deps.json
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\bin\Debug\net8.0\Domain.Shared.dll
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\bin\Debug\net8.0\Domain.Shared.pdb
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\obj\Debug\net8.0\Domain.Shared.csproj.AssemblyReference.cache
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\obj\Debug\net8.0\Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\obj\Debug\net8.0\Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\obj\Debug\net8.0\Domain.Shared.AssemblyInfo.cs
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\obj\Debug\net8.0\Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\obj\Debug\net8.0\Domain.Shared.dll
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\obj\Debug\net8.0\refint\Domain.Shared.dll
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\obj\Debug\net8.0\Domain.Shared.pdb
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\Domain.Shared\obj\Debug\net8.0\ref\Domain.Shared.dll

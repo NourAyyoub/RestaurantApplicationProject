@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nour1\\OneDrive\\سطح المكتب\\New folder (3)\\RestaurantApplication\\wwwroot\\qrcodes\\0a6ca5e1-82ad-365d-9b05-b6f236acacef.png",
+      "PackagePath": "staticwebassets\\qrcodes\\0a6ca5e1-82ad-365d-9b05-b6f236acacef.png"
+    },
+    {
+      "Id": "C:\\Users\\nour1\\OneDrive\\سطح المكتب\\New folder (3)\\RestaurantApplication\\wwwroot\\qrcodes\\30b9a809-b7c8-7c9e-313e-5e741e1d59c3.png",
+      "PackagePath": "staticwebassets\\qrcodes\\30b9a809-b7c8-7c9e-313e-5e741e1d59c3.png"
+    },
+    {
+      "Id": "C:\\Users\\nour1\\OneDrive\\سطح المكتب\\New folder (3)\\RestaurantApplication\\wwwroot\\qrcodes\\3f1437859f73b447885255a95afa99a1.png",
+      "PackagePath": "staticwebassets\\qrcodes\\3f1437859f73b447885255a95afa99a1.png"
+    },
+    {
+      "Id": "C:\\Users\\nour1\\OneDrive\\سطح المكتب\\New folder (3)\\RestaurantApplication\\wwwroot\\qrcodes\\713dfe34e6e1896524478b4a3a912d1a.png",
+      "PackagePath": "staticwebassets\\qrcodes\\713dfe34e6e1896524478b4a3a912d1a.png"
+    },
+    {
+      "Id": "C:\\Users\\nour1\\OneDrive\\سطح المكتب\\New folder (3)\\RestaurantApplication\\wwwroot\\qrcodes\\a244bc2be4245c022748235a46dedf15.png",
+      "PackagePath": "staticwebassets\\qrcodes\\a244bc2be4245c022748235a46dedf15.png"
+    },
+    {
+      "Id": "C:\\Users\\nour1\\OneDrive\\سطح المكتب\\New folder (3)\\RestaurantApplication\\wwwroot\\qrcodes\\b90a5829a859f75d0fa64c32cba64cd9.png",
+      "PackagePath": "staticwebassets\\qrcodes\\b90a5829a859f75d0fa64c32cba64cd9.png"
+    },
+    {
+      "Id": "C:\\Users\\nour1\\OneDrive\\سطح المكتب\\New folder (3)\\RestaurantApplication\\wwwroot\\qrcodes\\f3c4cd01de8381813368bd080142162a.png",
+      "PackagePath": "staticwebassets\\qrcodes\\f3c4cd01de8381813368bd080142162a.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RestaurantApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RestaurantApplication.props",
+      "PackagePath": "build\\RestaurantApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RestaurantApplication.props",
+      "PackagePath": "buildMultiTargeting\\RestaurantApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RestaurantApplication.props",
+      "PackagePath": "buildTransitive\\RestaurantApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

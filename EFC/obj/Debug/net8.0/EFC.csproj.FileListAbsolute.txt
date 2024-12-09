@@ -1,0 +1,34 @@
+C:\Users\nour1\source\repos\EFC\bin\Debug\net8.0\EFC.deps.json
+C:\Users\nour1\source\repos\EFC\bin\Debug\net8.0\EFC.runtimeconfig.json
+C:\Users\nour1\source\repos\EFC\bin\Debug\net8.0\EFC.dll
+C:\Users\nour1\source\repos\EFC\bin\Debug\net8.0\EFC.pdb
+C:\Users\nour1\source\repos\EFC\bin\Debug\net8.0\Domain.dll
+C:\Users\nour1\source\repos\EFC\bin\Debug\net8.0\Domain.pdb
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\EFC.csproj.AssemblyReference.cache
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\EFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\EFC.AssemblyInfoInputs.cache
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\EFC.AssemblyInfo.cs
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\EFC.csproj.CoreCompileInputs.cache
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\EFC.csproj.Up2Date
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\EFC.dll
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\refint\EFC.dll
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\EFC.pdb
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\EFC.genruntimeconfig.cache
+C:\Users\nour1\source\repos\EFC\obj\Debug\net8.0\ref\EFC.dll
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\bin\Debug\net8.0\EFC.deps.json
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\bin\Debug\net8.0\EFC.runtimeconfig.json
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\bin\Debug\net8.0\EFC.dll
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\bin\Debug\net8.0\EFC.pdb
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\bin\Debug\net8.0\Domain.dll
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\bin\Debug\net8.0\Domain.pdb
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\EFC.csproj.AssemblyReference.cache
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\EFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\EFC.AssemblyInfoInputs.cache
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\EFC.AssemblyInfo.cs
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\EFC.csproj.CoreCompileInputs.cache
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\EFC.csproj.Up2Date
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\EFC.dll
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\refint\EFC.dll
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\EFC.pdb
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\EFC.genruntimeconfig.cache
+C:\Users\nour1\OneDrive\سطح المكتب\New folder (3)\EFC\obj\Debug\net8.0\ref\EFC.dll

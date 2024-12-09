@@ -1,0 +1,172 @@
+[
+  {
+    "ContainingType": "RestaurantApplication.Controllers.DrinkController",
+    "Method": "CreateDrink",
+    "RelativePath": "api/Drink",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newDrink",
+        "Type": "Contracts.Dtos.Drink.CreateDrinkDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestaurantApplication.Controllers.DrinkController",
+    "Method": "UpdateDrink",
+    "RelativePath": "api/Drink",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatedDrink",
+        "Type": "Contracts.Dtos.Drink.UpdateDrinkDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestaurantApplication.Controllers.DrinkController",
+    "Method": "GetDrink",
+    "RelativePath": "api/Drink/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestaurantApplication.Controllers.DrinkController",
+    "Method": "DeleteDrink",
+    "RelativePath": "api/Drink/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestaurantApplication.Controllers.FoodController",
+    "Method": "CreateFood",
+    "RelativePath": "api/Food",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newFood",
+        "Type": "Contracts.Dtos.FoodDtos.CreateFoodDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestaurantApplication.Controllers.FoodController",
+    "Method": "UpdateFood",
+    "RelativePath": "api/Food",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatedFood",
+        "Type": "Contracts.Dtos.FoodDtos.UpdateFoodDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestaurantApplication.Controllers.FoodController",
+    "Method": "GetFood",
+    "RelativePath": "api/Food/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestaurantApplication.Controllers.FoodController",
+    "Method": "DeleteFood",
+    "RelativePath": "api/Food/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestaurantApplication.Controllers.MenuController",
+    "Method": "GetMenu",
+    "RelativePath": "api/Menu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QRCodeController",
+    "Method": "CreateQRCode",
+    "RelativePath": "api/QRCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "QRCodeText",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QRCodeController",
+    "Method": "GetQRCode",
+    "RelativePath": "api/QRCode/{qrCodeText}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "qrCodeText",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
